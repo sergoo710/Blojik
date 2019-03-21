@@ -2,6 +2,7 @@
 <html lang="ru">
 <head>
   <meta charset="utf-8">
+  <title>Бложик</title>
 
   </head>
   <body>
@@ -27,13 +28,14 @@
           </ul>
         </nav>
         <div class="index-logo">
-          <h1><a href="https://www.yandex.ru"</a>Startap Simulator</h1>
+          <h1><a href="https://www.yandex.ru">Startap Simulator</a></h1>
           </div>
         </div>
       </header>
       <div class="user-block">
         <a class="login" href="#">Вход</a>
         </div>
+        <main class="main-container">
         <div class="headline">
           <h2>Music’s next big startup
 Splice raises $57.5M to sell samples  </h2>
@@ -71,3 +73,11 @@ Tech has a bad reputation for pulling money out of musicians’ pockets, but Spl
 Now Union Square Ventures and True Ventures are seizing on that opportunity, co-leading a $57.5 million Series C for Splice. “It’s all about scale,” Martocci tells me. “We’re investing in ourselves. Continuing to build new products. Continuing to work with bigger artists. We think there’s so much about the creative process and ecosystem of musicians that needs to be fixed. We want to diversify the content available so all artists in all genres feel like we have what they need.”
 
 The round, which includes DFJ Growth, Flybridge, Lerer Hippeau, Liontree, Founders Circle Capital and Matt Pincus, brings Splice to $104.5 million in total funding. Splice wouldn’t disclose the valuation, but using the industry standard of selling 20 percent equity for a Series C, Splice could be valued in the ballpark of $285 million. That would make it one of the top music startups that isn’t selling streaming, tickets or hardware. Its success has also begun to draw competition from companies like Native Instruments, which launched its Sounds.com marketplace last year.</p>
+
+
+
+              </div>
+              </main>
+    </body>
+</html>
+
