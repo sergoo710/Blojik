@@ -34,6 +34,7 @@
       </header>
       <div class="user-block">
         <a class="login" href="#">Вход</a>
+        <a class="password" href="#">Зарегестрироваться</a>
         </div>
         <div class="headline">
           <h2>Music’s next big startup
@@ -75,4 +76,3 @@ The round, which includes DFJ Growth, Flybridge, Lerer Hippeau, Liontree, Founde
               </div>
     </body>
 </html>
-
