@@ -8,7 +8,7 @@
   <body>
     <header class="main-header">
       <div class="container">
-        <nav class="main-navigation"
+        <nav class="main-navigation">
         <ul>
           <li>
             <a href="#">Стартапы</a>
