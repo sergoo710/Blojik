@@ -31,11 +31,11 @@
           <h1><a href="https://www.yandex.ru">Startap Simulator</a></h1>
           </div>
         </div>
-      </header>
       <div class="user-block">
         <a class="login" href="#">Вход</a>
         <a class="password" href="#">Зарегестрироваться</a>
         </div>
+  </header>
         <div class="headline">
           <h2>Music’s next big startup
 Splice raises $57.5M to sell samples  </h2>
