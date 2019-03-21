@@ -35,7 +35,6 @@
       <div class="user-block">
         <a class="login" href="#">Вход</a>
         </div>
-        <main class="main-container">
         <div class="headline">
           <h2>Music’s next big startup
 Splice raises $57.5M to sell samples  </h2>
@@ -74,7 +73,6 @@ Now Union Square Ventures and True Ventures are seizing on that opportunity, co-
 
 The round, which includes DFJ Growth, Flybridge, Lerer Hippeau, Liontree, Founders Circle Capital and Matt Pincus, brings Splice to $104.5 million in total funding. Splice wouldn’t disclose the valuation, but using the industry standard of selling 20 percent equity for a Series C, Splice could be valued in the ballpark of $285 million. That would make it one of the top music startups that isn’t selling streaming, tickets or hardware. Its success has also begun to draw competition from companies like Native Instruments, which launched its Sounds.com marketplace last year.</p>
               </div>
-              </main>
     </body>
 </html>
 
