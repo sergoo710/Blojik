@@ -27,7 +27,7 @@
           </ul>
         </nav>
         <div class="index-logo">
-          <h1>Startap Simulator</h1>
+          <h1><a href="https://www.yandex.ru"</a>Startap Simulator</h1>
           </div>
         </div>
       </header>
