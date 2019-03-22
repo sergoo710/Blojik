@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>Бложик</title>
-<link rel="stylesheet" href="disagn.CSS">
+<link rel="stylesheet" href="style.css>
   </head>
   <body>
     <header class="main-header">
